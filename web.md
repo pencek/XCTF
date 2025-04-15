@@ -119,34 +119,34 @@ $flag="Cyberpeace{855A1C4B3401294CB6604CCC98BDE334}"
 
 # simple_php
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/00f4ee444429400399b1e97d6006e145.png)
+![输入图片说明](image/00f4ee444429400399b1e97d6006e145.png)
 
 后面添加?a=0 && b=1235abc
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ada033aa5f6243da867724ae4fd65a58.png)
+![输入图片说明](image/ada033aa5f6243da867724ae4fd65a58.png)
 
 # Training-WWW-Robots
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/961bda4bb2104f0b965e88ef5f637848.png)
+![输入图片说明](image/961bda4bb2104f0b965e88ef5f637848.png)
 
 查看/robots.txt
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/3f758ba1e51e4f39855e368dd35bb7cf.png)
+![输入图片说明](image/3f758ba1e51e4f39855e368dd35bb7cf.png)
 
 /fl0g.php
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9c3e0f025953465f937e423309a55154.png)
+![输入图片说明](image/9c3e0f025953465f937e423309a55154.png)
 
 # command_execution
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/5c46128c5d7a4d39a354d02b6dfba041.png)
+![输入图片说明](image/5c46128c5d7a4d39a354d02b6dfba041.png)
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ed6886847b1d4fbc8540026c532bf7f2.png)
+![输入图片说明](image/ed6886847b1d4fbc8540026c532bf7f2.png)
 
 127.0.0.1;id，可以执行
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ef116661d9e34df6ace038e08626f50f.png)
+![输入图片说明](image/ef116661d9e34df6ace038e08626f50f.png)
 
 查找flag：127.0.0.1;cat ../../../home/flag.txt
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/16abef54659f41b486d8bf634c58abf1.png)
+![输入图片说明](image/16abef54659f41b486d8bf634c58abf1.png)
